@@ -12,8 +12,8 @@ For simplicity and demonstration purpose user authentication is simply handled w
 ### Login Page
 
 Test account: <br>
-```Username: user```
-```Password: pass```
+```Username: drake```
+```Password: ```
 
 <img src='/Telecomms/assets/img/Capture1.PNG' width='550' height='500' />
 
